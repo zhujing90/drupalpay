@@ -1,5 +1,5 @@
 {
-  "name": "drupalpay",
+  "name": "shinetechdev/drupalpay",
   "description": "My first packagist package",
   "type": "package",
   "require": {
