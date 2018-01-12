@@ -9,7 +9,7 @@
 namespace Drupalpay;
 
 
-Class fattpay {
+Class Fattpay {
 
 	private $engine = null;
 
